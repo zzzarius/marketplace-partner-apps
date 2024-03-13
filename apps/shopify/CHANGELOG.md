@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.9](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v1.1.8...shopify-sku-v1.1.9) (2024-03-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/ecommerce-app-base from 3.5.34 to 3.5.35 in /apps/shopify ([#1071](https://github.com/contentful/marketplace-partner-apps/issues/1071)) ([728ce5c](https://github.com/contentful/marketplace-partner-apps/commit/728ce5c4c6660168aff64eba0996c78889d84b59))
+* **deps:** bump emotion from 10.0.27 to 11.0.0 in /apps/shopify ([#861](https://github.com/contentful/marketplace-partner-apps/issues/861)) ([84de505](https://github.com/contentful/marketplace-partner-apps/commit/84de5055ec3d0b62c508b8f83c774d54f49263d3))
+* **deps:** bump typescript from 5.3.3 to 5.4.2 in /apps/shopify ([#1052](https://github.com/contentful/marketplace-partner-apps/issues/1052)) ([ef38685](https://github.com/contentful/marketplace-partner-apps/commit/ef38685a692af9f366bc0955ff0be96045b4207f))
+
 ## [1.1.8](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v1.1.7...shopify-sku-v1.1.8) (2024-03-06)
 
 
